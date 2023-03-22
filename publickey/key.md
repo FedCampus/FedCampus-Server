@@ -1,0 +1,8 @@
+# Public key collector
+Append your public key below, followed by desired username.
+
+**Note that sharing Public Key online is completely safe, as long as your private key stays on your own device**
+
+Eg:
+- ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBn4zprEn5+1f3vGPFLGgKsYnE8p+0cmjDYz4OkWS9Z8e6bwrZP8rJ+WgMbFvKYw7Vqmy2La/RsxRqMQBB9sLDBX7ISmV28Dy0Y83IsYqD7ws3NRcPx4psp1qtNXjJIDoL2FZRQ0uJEPLlW3piGtvp66bZPICTUifrYdXVV4N6PZExYNiuQa9b4XdI5QsiWBWUP5SCq1Nw6PnwyJFx917RpS2rpwYg6cmAUK1EWeou5RGWu9tQtYUhj4dcRGjBOiBJ5sJT9vHVy6NpZ3zVZzYv91hF0cvLyIBhW92U6DrWIbIOUaKpo9YH3oCDYb0ijLL8aUtd4miX24AAEZg5uF1N bz106
+>Append below this line of text
