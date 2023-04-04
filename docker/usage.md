@@ -1,3 +1,3 @@
 # Docker Dashbroad
-- Management Portal [http://portainer.fedcampus.eu.org](http://portainer.fedcampus.eu.org)
+- Management Portal [https://portainer.fedcampus.eu.org](https://portainer.fedcampus.eu.org)
 - Credentials are not needed, use GitHub OAuth to login.
