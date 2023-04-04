@@ -8,5 +8,4 @@
 - [Address of VMs](/vm/address.md)
 - [Access VM via SSH](/vm/remote.md)
 ## Docker
-- Management Portal [http://portainer.fedcampus.eu.org](http://portainer.fedcampus.eu.org)
-- Credentials are avaliable [here](https://github.com/FedCampus/Credentials) (Private repo)
+- [Dashbroad](/docker/usage.md)
