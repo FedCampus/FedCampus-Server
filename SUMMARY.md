@@ -6,6 +6,7 @@
 ## Setup
 
 * [How the server got setup](<Setup/The setup.md>)
+* [How to access server from remote](vm/tailscale.md)
 
 ## Git
 
