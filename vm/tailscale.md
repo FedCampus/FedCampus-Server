@@ -1,4 +1,4 @@
-# FedCampus User Manual
+# FedCampus VPN User Manual
 
 This document explains how to join and use the FedCampus network using Tailscale. Tailscale is a VPN service that creates a private network of your devices and resources. You can access the fed-ml and fed-iot servers on the network to do tests outside of campus.
 
