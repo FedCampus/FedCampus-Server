@@ -1,7 +1,12 @@
 # Table of contents
 
+
 * [README](README.md)
   * [KSSC (昆山超算中心)](readme/kssc-kun-shan-chao-suan-zhong-xin.md)
+
+
+## Special notice on modifying documents
+* Remenber to update the contents in SUMMARY.md if file name has a necessary change.
 
 ## Setup
 
