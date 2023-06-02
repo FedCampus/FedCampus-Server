@@ -11,7 +11,7 @@
 ## Git
 
 * [How to solve git issue with Gitbook Repo](<git/Git Usage.md>)
-* [Branch/Merge rules will be added soon](git/branch-merge-rules-will-be-added-soon.md)
+* [Branch/Merge rules](git/branch-merge-rules.md)
 
 ## VM
 
