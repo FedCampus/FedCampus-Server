@@ -1,10 +1,10 @@
-# Address of VMs
+# Servers Access
 
 ## Suffix of all domains are **.dukekunshan.edu.cn**
 
-* [fed-port](fed-port.dukekunshan.edu.cn) (SSH not enabled)
-* [fed-ml](fed-ml.dukekunshan.edu.cn)
-* [fed-iot](fed-iot.dukekunshan.edu.cn)
+* [fed-port](../fed-port.dukekunshan.edu.cn) (SSH not enabled)
+* [fed-ml](../fed-ml.dukekunshan.edu.cn)
+* [fed-iot](../fed-iot.dukekunshan.edu.cn)
 
 ### Hardware
 
@@ -23,10 +23,12 @@ sr0     11:0    1  1024M  0 rom
 
 ### Access VM via SSH
 
-Append your Publickey in [this](../publickey/key.md) file.
+Note:  with Tailscale support
+
+Append your Publickey in [this](../../publickey/key.md) file.
 
 * Login username is shared as the ssh session will only really be used as last debug procedure.
-* [Hostname](address.md)
+* [Hostname](./)
 * Username: **userroot**
 * No password is used, use your supplied key to login
 * sudo password is available [here](https://github.com/FedCampus/Credentials)
@@ -50,6 +52,8 @@ sr0     11:0    1 1024M  0 rom
 ```
 
 ### Access VM via SSH
+
+Note: <mark style="color:red;">**DKU VPN is required**</mark>
 
 ```
 # Initial Login

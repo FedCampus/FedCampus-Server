@@ -1,11 +1,11 @@
-# FedCampus VPN User Manual
+# How to access server from remote
 
 This document explains how to join and use the FedCampus network using Tailscale. Tailscale is a VPN service that creates a private network of your devices and resources. You can access the fed-ml and fed-iot servers on the network to do tests outside of campus.
 
 ## Prerequisites
 
-- You need to have a GitHub account and join the FedCampus GitHub organization.
-- You need to install Tailscale on your device. You can download it from https://tailscale.com/download.
+* You need to have a GitHub account and join the FedCampus GitHub organization.
+* You need to install Tailscale on your device. You can download it from https://tailscale.com/download.
 
 ## Joining the network
 
@@ -35,13 +35,13 @@ http://fed-iot.tailc5dce.ts.net
 
 in your browser.
 
-Do note that there is currently no web interface on either server and there is no plan to do so. For WebUI, please refer to [docker dashbroad](../docker/usage.md)
+Do note that there is currently no web interface on either server and there is no plan to do so. For WebUI, please refer to [docker dashbroad](../../docker/usage.md)
 
 ## Troubleshooting
 
 If you encounter any issues while using Tailscale, you can check the following:
 
-- Make sure your device is connected to the internet and has Tailscale running.
-- Make sure you are signed in with your GitHub account and have joined the FedCampus network.
-- Make sure you have permission to access the resource you are trying to reach. You can check the access control lists (ACLs) on the admin console at https://login.tailscale.com/admin/acls.
-- If you need further assistance, you can contact the network administrator or visit https://tailscale.com/kb for more documentation and support.
+* Make sure your device is connected to the internet and has Tailscale running.
+* Make sure you are signed in with your GitHub account and have joined the FedCampus network.
+* Make sure you have permission to access the resource you are trying to reach. You can check the access control lists (ACLs) on the admin console at https://login.tailscale.com/admin/acls.
+* If you need further assistance, you can contact the network administrator or visit https://tailscale.com/kb for more documentation and support.
