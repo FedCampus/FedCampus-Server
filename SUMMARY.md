@@ -5,15 +5,13 @@
 
 ## Setup
 
+* [Servers Access](setup/address/README.md)
+  * [How to access server from remote](setup/address/tailscale.md)
+
 ## Git
 
 * [How to solve git issue with Gitbook Repo](<git/Git Usage.md>)
 * [Branch/Merge rules](git/branch-merge-rules.md)
-
-## VM
-
-* [Servers Access](vm/address/README.md)
-  * [How to access server from remote](vm/address/tailscale.md)
 
 ## Docker
 
