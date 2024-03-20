@@ -1,5 +1,7 @@
 # Servers Access
 
+## Note: access only for <mark style="background-color:red;">Certified users</mark> (Remember to add [public key](how-to-generate-and-add-new-ssh-key.md) to your Github account)
+
 ## Suffix of all domains are **.dukekunshan.edu.cn**
 
 * [fed-port](../../vm/fed-port.dukekunshan.edu.cn) (SSH not enabled)

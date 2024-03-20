@@ -5,6 +5,8 @@ description: >-
 
 # How to generate and add new ssh key
 
+> Note: After adding the public key, access servers the next day.
+
 ### Generate ssh key
 
 Paste the text below, replacing the email used in the example with your GitHub email address.
