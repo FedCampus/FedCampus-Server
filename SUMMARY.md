@@ -6,6 +6,7 @@
 ## Setup
 
 * [Servers Access](setup/address/README.md)
+  * [How to generate and add new ssh key](setup/address/how-to-generate-and-add-new-ssh-key.md)
   * [How to access server from remote](setup/address/tailscale.md)
 
 ## Git
